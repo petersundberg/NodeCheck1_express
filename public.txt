@@ -1,0 +1,1 @@
+This is a public text from a separate file,  used for practice.
